@@ -47,3 +47,14 @@ These reflect a transition from a coherent superposition state to a classical mi
 Install the dependencies:
 ```bash
 pip install qutip matplotlib numpy
+
+## Author
+
+**Shiva Heidari**  
+Physicist | Quantum Researcher | Qiskit Enthusiast  
+GitHub: [@Shiva-Heidari](https://github.com/Shiva-Heidari)
+
+
+## ⭐️ If you found this useful…
+
+Feel free to ⭐️ star the repo or connect with me on [LinkedIn](https://www.linkedin.com/in/shiva-heidari) to collaborate or chat quantum!
